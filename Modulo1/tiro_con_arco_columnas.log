@@ -2,8 +2,8 @@ This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded forma
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**tiro_con_arco.tex
-(./tiro_con_arco.tex
+**tiro_con_arco_columnas.tex
+(./tiro_con_arco_columnas.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
 (c:/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -325,18 +325,8 @@ File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count303
 \l__pdf_internal_box=\box105
 )
-(./tiro_con_arco.aux
-LaTeX Info: Redefining \. on input line 5.
-LaTeX Info: Redefining \% on input line 5.
-
-
-LaTeX Warning: Label `c' multiply defined.
-
-
-LaTeX Warning: Label `sub@c' multiply defined.
-
-)
-\openout1 = `tiro_con_arco.aux'.
+No file tiro_con_arco_columnas.aux.
+\openout1 = `tiro_con_arco_columnas.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
 LaTeX Font Info:    ... okay on input line 55.
@@ -352,7 +342,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
 LaTeX Font Info:    ... okay on input line 55.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
 LaTeX Font Info:    ... okay on input line 55.
- (c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count304
 \scratchdimen=\dimen167
@@ -383,6 +373,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 57.
 
+
+LaTeX Warning: Reference `tiro1' on page 1 undefined on input line 67.
+
+
 Underfull \hbox (badness 2828) in paragraph at lines 67--68
 \OT1/cmr/m/n/24.88 usan-do un ar-co con
  []
@@ -399,6 +393,13 @@ Overfull \hbox (46.53056pt too wide) in paragraph at lines 71--72
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+LaTeX Warning: Reference `a' on page 1 undefined on input line 82.
+
+
+LaTeX Warning: Reference `b' on page 1 undefined on input line 82.
 
 File: tiro_arco.jpg Graphic file (type jpg)
 <use tiro_arco.jpg>
@@ -470,6 +471,9 @@ Overfull \hbox (1063.0pt too wide) has occurred while \output is active
 
 
 ]
+
+LaTeX Warning: Reference `tab1' on page 4 undefined on input line 130.
+
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 134.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -503,6 +507,9 @@ Overfull \hbox (100.42473pt too wide) in paragraph at lines 150--156
  []
 
 
+LaTeX Warning: Reference `tab2' on page 4 undefined on input line 161.
+
+
 Overfull \hbox (203.44232pt too wide) in paragraph at lines 165--176
 [][] 
  []
@@ -525,7 +532,7 @@ Overfull \hbox (46.53056pt too wide) in paragraph at lines 238--239
 
 [5] [6
 
-] (./tiro_con_arco.aux
+] (./tiro_con_arco_columnas.aux
 LaTeX Info: Redefining \. on input line 5.
 LaTeX Info: Redefining \% on input line 5.
 )
@@ -535,17 +542,20 @@ L3 programming layer <2024-03-14>
  ***********
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 6657 strings out of 474103
- 113145 string characters out of 5747481
+ 6654 strings out of 474103
+ 113160 string characters out of 5747481
  1943496 words of memory out of 5000000
- 28951 multiletter control sequences out of 15000+600000
+ 28950 multiletter control sequences out of 15000+600000
  566503 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,14n,77p,930b,474s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 67i,14n,77p,939b,474s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/tex
 live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist
@@ -555,7 +565,7 @@ e1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public
 /cm/cmtt12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/latxfont
 /lasy6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb
 ><c:/texlive/2024/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on tiro_con_arco.pdf (6 pages, 117017 bytes).
+Output written on tiro_con_arco_columnas.pdf (6 pages, 117250 bytes).
 PDF statistics:
  75 PDF objects out of 1000 (max. 8388607)
  45 compressed objects within 1 object stream
