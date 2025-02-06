@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.2)  6 FEB 2025 07:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.2)  6 FEB 2025 08:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -234,7 +234,17 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count299
 \l__pdf_internal_box=\box60
 )
-(./tiro_con_arco.aux)
+(./tiro_con_arco.aux
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
+
+
+LaTeX Warning: Label `c' multiply defined.
+
+
+LaTeX Warning: Label `sub@c' multiply defined.
+
+)
 \openout1 = `tiro_con_arco.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
@@ -251,8 +261,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
-
-(c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count300
 \scratchdimen=\dimen159
@@ -304,10 +313,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 38.
 
-
-LaTeX Warning: Reference `tiro1' on page 1 undefined on input line 48.
-
-
 Overfull \hbox (3.24544pt too wide) in paragraph at lines 48--49
 \OT1/cmr/m/n/24.88 par-ti-ci-pan-tes dis-pa-ran fle-chas usan-do un
  []
@@ -323,12 +328,6 @@ Package pdftex.def Info: tiro_arco.jpg  used on input line 53.
 
 {c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./tiro_arco.jpg
 >]
-
-LaTeX Warning: Reference `a' on page 2 undefined on input line 64.
-
-
-LaTeX Warning: Reference `b' on page 2 undefined on input line 64.
-
 File: tiro_arco.jpg Graphic file (type jpg)
 <use tiro_arco.jpg>
 Package pdftex.def Info: tiro_arco.jpg  used on input line 69.
@@ -357,9 +356,6 @@ Package pdftex.def Info: tiro_arco.jpg  used on input line 102.
 [3
 
 ]
-
-LaTeX Warning: Reference `tab1' on page 4 undefined on input line 112.
-
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 116.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -382,9 +378,6 @@ File: tiro_arco.jpg Graphic file (type jpg)
 <use tiro_arco.jpg>
 Package pdftex.def Info: tiro_arco.jpg  used on input line 120.
 (pdftex.def)             Requested size: 96.61238pt x 64.29114pt.
-
-LaTeX Warning: Reference `tab2' on page 4 undefined on input line 143.
-
 
 Overfull \hbox (42.94232pt too wide) in paragraph at lines 147--158
 [][] 
@@ -411,10 +404,7 @@ L3 programming layer <2024-05-27>
  ***********
 
 
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
@@ -434,7 +424,7 @@ pe1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public
 /cm/cmti12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt1
 2.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/
 texlive/2024/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on tiro_con_arco.pdf (5 pages, 122792 bytes).
+Output written on tiro_con_arco.pdf (5 pages, 122537 bytes).
 PDF statistics:
  72 PDF objects out of 1000 (max. 8388607)
  43 compressed objects within 1 object stream
