@@ -1,27 +1,27 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.26)  4 FEB 2025 11:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.2)  6 FEB 2025 07:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **tiro_con_arco.tex
 (./tiro_con_arco.tex
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-03-14>
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-05-27>
 (c:/texlive/2024/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
 (c:/texlive/2024/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+File: size12.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count188
-\c@section=\count189
-\c@subsection=\count190
-\c@subsubsection=\count191
-\c@paragraph=\count192
-\c@subparagraph=\count193
-\c@figure=\count194
-\c@table=\count195
-\abovecaptionskip=\skip48
-\belowcaptionskip=\skip49
-\bibindent=\dimen140
+\c@part=\count194
+\c@section=\count195
+\c@subsection=\count196
+\c@subsubsection=\count197
+\c@paragraph=\count198
+\c@subparagraph=\count199
+\c@figure=\count266
+\c@table=\count267
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
 )
 (c:/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
@@ -31,29 +31,29 @@ Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
 (c:/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
 
 (c:/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
 )
 (c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 107.
+Package graphics Info: Driver file: pdftex.def on input line 106.
 
 (c:/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen141
-\Gin@req@width=\dimen142
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
 )
 (c:/texlive/2024/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count196
+\c@float@type=\count268
 \float@exts=\toks18
-\float@box=\box51
+\float@box=\box52
 \@float@everytoks=\toks19
-\@floatcapt=\box52
+\@floatcapt=\box53
 )
 (c:/texlive/2024/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
@@ -63,24 +63,24 @@ Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
 (c:/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen143
-\captionmargin=\dimen144
-\caption@leftmargin=\dimen145
-\caption@rightmargin=\dimen146
-\caption@width=\dimen147
-\caption@indent=\dimen148
-\caption@parindent=\dimen149
-\caption@hangindent=\dimen150
+\caption@tempdima=\dimen144
+\captionmargin=\dimen145
+\caption@leftmargin=\dimen146
+\caption@rightmargin=\dimen147
+\caption@width=\dimen148
+\caption@indent=\dimen149
+\caption@parindent=\dimen150
+\caption@hangindent=\dimen151
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count197
-\c@continuedfloat=\count198
+\c@caption@flags=\count269
+\c@continuedfloat=\count270
 Package caption Info: float package is loaded.
 )
 Package caption Info: New subtype `subfigure' on input line 238.
-\c@subfigure=\count199
+\c@subfigure=\count271
 Package caption Info: New subtype `subtable' on input line 238.
-\c@subtable=\count266
+\c@subtable=\count272
 )
 (c:/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
@@ -117,42 +117,42 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
 )
 (c:/texlive/2024/texmf-dist/tex/latex/colortbl/colortbl.sty
-Package: colortbl 2024/02/20 v1.0g Color table columns (DPC)
+Package: colortbl 2024/05/26 v1.0h Color table columns (DPC)
 
 (c:/texlive/2024/texmf-dist/tex/latex/tools/array.sty
-Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen151
-\ar@mcellbox=\box53
-\extrarowheight=\dimen152
+Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
+\col@sep=\dimen152
+\ar@mcellbox=\box54
+\extrarowheight=\dimen153
 \NC@list=\toks20
-\extratabsurround=\skip50
-\backup@length=\skip51
-\ar@cellbox=\box54
+\extratabsurround=\skip51
+\backup@length=\skip52
+\ar@cellbox=\box55
 )
 \everycr=\toks21
-\minrowclearance=\skip52
-\rownum=\count267
+\minrowclearance=\skip53
+\rownum=\count273
 )
 (c:/texlive/2024/texmf-dist/tex/generic/ulem/ulem.sty
-\UL@box=\box55
-\UL@hyphenbox=\box56
-\UL@skip=\skip53
+\UL@box=\box56
+\UL@hyphenbox=\box57
+\UL@skip=\skip54
 \UL@hook=\toks22
-\UL@height=\dimen153
-\UL@pe=\count268
-\UL@pixel=\dimen154
-\ULC@box=\box57
+\UL@height=\dimen154
+\UL@pe=\count274
+\UL@pixel=\dimen155
+\ULC@box=\box58
 Package: ulem 2019/11/18
-\ULdepth=\dimen155
+\ULdepth=\dimen156
 )
 (c:/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip54
-\enit@outerparindent=\dimen156
+\labelindent=\skip55
+\enit@outerparindent=\dimen157
 \enit@toks=\toks23
-\enit@inbox=\box58
-\enit@count@id=\count269
-\enitdp@description=\count270
+\enit@inbox=\box59
+\enit@count@id=\count275
+\enitdp@description=\count276
 )
 (c:/texlive/2024/texmf-dist/tex/latex/psnfss/pifont.sty
 Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
@@ -182,7 +182,7 @@ Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ))
 (c:/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count271
+\etb@tempcnta=\count277
 ))
 (c:/texlive/2024/texmf-dist/tex/latex/blindtext/blindtext.sty
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
@@ -190,39 +190,39 @@ Package: blindtext 2012/01/06 V2.0 blindtext-Package
 (c:/texlive/2024/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count272
-\c@Blindtext=\count273
-\c@blind@countparstart=\count274
-\blind@countxx=\count275
-\blindtext@numBlindtext=\count276
-\blind@countyy=\count277
-\c@blindlist=\count278
-\c@blindlistlevel=\count279
-\c@blindlist@level=\count280
-\blind@listitem=\count281
-\c@blind@listcount=\count282
-\c@blind@levelcount=\count283
-\blind@mathformula=\count284
-\blind@Mathformula=\count285
-\c@blind@randomcount=\count286
-\c@blind@randommax=\count287
-\c@blind@pangramcount=\count288
-\c@blind@pangrammax=\count289
+\c@blindtext=\count278
+\c@Blindtext=\count279
+\c@blind@countparstart=\count280
+\blind@countxx=\count281
+\blindtext@numBlindtext=\count282
+\blind@countyy=\count283
+\c@blindlist=\count284
+\c@blindlistlevel=\count285
+\c@blindlist@level=\count286
+\blind@listitem=\count287
+\c@blind@listcount=\count288
+\c@blind@levelcount=\count289
+\blind@mathformula=\count290
+\blind@Mathformula=\count291
+\c@blind@randomcount=\count292
+\c@blind@randommax=\count293
+\c@blind@pangramcount=\count294
+\c@blind@pangrammax=\count295
 )
 (c:/texlive/2024/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2024/04/20 v24.4 The Babel package
-\babel@savecnt=\count290
-\U@D=\dimen157
+Package: babel 2024/06/26 v24.7 The Babel package
+\babel@savecnt=\count296
+\U@D=\dimen158
 \l@unhyphenated=\language89
 
 (c:/texlive/2024/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count291
+\bbl@dirlevel=\count297
 
 (c:/texlive/2024/texmf-dist/tex/generic/babel-spanish/spanish.ldf
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
 \es@quottoks=\toks24
-\es@quotdepth=\count292
+\es@quotdepth=\count298
 Package babel Info: Making " an active character on input line 570.
 ))
 (c:/texlive/2024/texmf-dist/tex/generic/babel/locale/es/babel-spanish.tex
@@ -230,18 +230,11 @@ Package babel Info: Importing font and identification data for spanish
 (babel)             from babel-es.ini. Reported on input line 11.
 )
 (c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count293
-\l__pdf_internal_box=\box59
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count299
+\l__pdf_internal_box=\box60
 )
-(./tiro_con_arco.aux
-
-LaTeX Warning: Label `c' multiply defined.
-
-
-LaTeX Warning: Label `sub@c' multiply defined.
-
-)
+(./tiro_con_arco.aux)
 \openout1 = `tiro_con_arco.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
@@ -258,18 +251,19 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
- (c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+(c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count294
-\scratchdimen=\dimen158
-\scratchbox=\box60
-\nofMPsegments=\count295
-\nofMParguments=\count296
+\scratchcounter=\count300
+\scratchdimen=\dimen159
+\scratchbox=\box61
+\nofMPsegments=\count301
+\nofMParguments=\count302
 \everyMPshowfont=\toks25
-\MPscratchCnt=\count297
-\MPscratchDim=\dimen159
-\MPnumerator=\count298
-\makeMPintoPDFobject=\count299
+\MPscratchCnt=\count303
+\MPscratchDim=\dimen160
+\MPnumerator=\count304
+\makeMPintoPDFobject=\count305
 \everyMPtoPDFconversion=\toks26
 ) (c:/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -310,6 +304,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 38.
 
+
+LaTeX Warning: Reference `tiro1' on page 1 undefined on input line 48.
+
+
 Overfull \hbox (3.24544pt too wide) in paragraph at lines 48--49
 \OT1/cmr/m/n/24.88 par-ti-ci-pan-tes dis-pa-ran fle-chas usan-do un
  []
@@ -317,100 +315,116 @@ Overfull \hbox (3.24544pt too wide) in paragraph at lines 48--49
 <tiro_arco.jpg, id=1, 276.03125pt x 183.68625pt>
 File: tiro_arco.jpg Graphic file (type jpg)
 <use tiro_arco.jpg>
-Package pdftex.def Info: tiro_arco.jpg  used on input line 52.
+Package pdftex.def Info: tiro_arco.jpg  used on input line 53.
 (pdftex.def)             Requested size: 138.01527pt x 91.84288pt.
+
+
 [1
 
 {c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./tiro_arco.jpg
 >]
+
+LaTeX Warning: Reference `a' on page 2 undefined on input line 64.
+
+
+LaTeX Warning: Reference `b' on page 2 undefined on input line 64.
+
 File: tiro_arco.jpg Graphic file (type jpg)
 <use tiro_arco.jpg>
-Package pdftex.def Info: tiro_arco.jpg  used on input line 68.
+Package pdftex.def Info: tiro_arco.jpg  used on input line 69.
 (pdftex.def)             Requested size: 96.61238pt x 64.29114pt.
 File: tiro_arco.jpg Graphic file (type jpg)
 <use tiro_arco.jpg>
-Package pdftex.def Info: tiro_arco.jpg  used on input line 74.
+Package pdftex.def Info: tiro_arco.jpg  used on input line 75.
 (pdftex.def)             Requested size: 96.61238pt x 64.29114pt.
 File: tiro_arco.jpg Graphic file (type jpg)
 <use tiro_arco.jpg>
-Package pdftex.def Info: tiro_arco.jpg  used on input line 81.
+Package pdftex.def Info: tiro_arco.jpg  used on input line 82.
 (pdftex.def)             Requested size: 96.61238pt x 64.29114pt.
 File: tiro_arco.jpg Graphic file (type jpg)
 <use tiro_arco.jpg>
-Package pdftex.def Info: tiro_arco.jpg  used on input line 87.
+Package pdftex.def Info: tiro_arco.jpg  used on input line 88.
 (pdftex.def)             Requested size: 96.61238pt x 64.29114pt.
- [2]
+
+
+[2]
 File: tiro_arco.jpg Graphic file (type jpg)
 <use tiro_arco.jpg>
-Package pdftex.def Info: tiro_arco.jpg  used on input line 101.
+Package pdftex.def Info: tiro_arco.jpg  used on input line 102.
 (pdftex.def)             Requested size: 96.61238pt x 64.29114pt.
- [3
+
+
+[3
 
 ]
 
-LaTeX Warning: Reference `tab1' on page 4 undefined on input line 111.
+LaTeX Warning: Reference `tab1' on page 4 undefined on input line 112.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 115.
+(Font)              <12> on input line 116.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 115.
+(Font)              <8> on input line 116.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 115.
+(Font)              <6> on input line 116.
 File: tiro_arco.jpg Graphic file (type jpg)
 <use tiro_arco.jpg>
-Package pdftex.def Info: tiro_arco.jpg  used on input line 117.
+Package pdftex.def Info: tiro_arco.jpg  used on input line 118.
 (pdftex.def)             Requested size: 96.61238pt x 64.29114pt.
 File: tiro_arco.jpg Graphic file (type jpg)
 <use tiro_arco.jpg>
-Package pdftex.def Info: tiro_arco.jpg  used on input line 117.
+Package pdftex.def Info: tiro_arco.jpg  used on input line 118.
 (pdftex.def)             Requested size: 96.61238pt x 64.29114pt.
 File: tiro_arco.jpg Graphic file (type jpg)
 <use tiro_arco.jpg>
-Package pdftex.def Info: tiro_arco.jpg  used on input line 119.
+Package pdftex.def Info: tiro_arco.jpg  used on input line 120.
 (pdftex.def)             Requested size: 96.61238pt x 64.29114pt.
 File: tiro_arco.jpg Graphic file (type jpg)
 <use tiro_arco.jpg>
-Package pdftex.def Info: tiro_arco.jpg  used on input line 119.
+Package pdftex.def Info: tiro_arco.jpg  used on input line 120.
 (pdftex.def)             Requested size: 96.61238pt x 64.29114pt.
 
-LaTeX Warning: Reference `tab2' on page 4 undefined on input line 142.
+LaTeX Warning: Reference `tab2' on page 4 undefined on input line 143.
 
 
-Overfull \hbox (42.94232pt too wide) in paragraph at lines 146--157
+Overfull \hbox (42.94232pt too wide) in paragraph at lines 147--158
 [][] 
  []
+
+
 
 [4
 
 {c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 
 Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 198.
+(blindtext)                 on input line 199.
+
+
 
 [5] (./tiro_con_arco.aux
 LaTeX Info: Redefining \. on input line 5.
 LaTeX Info: Redefining \% on input line 5.
 )
  ***********
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-03-14>
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-05-27>
  ***********
 
 
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 6564 strings out of 474103
- 112246 string characters out of 5747481
- 1937496 words of memory out of 5000000
- 28848 multiletter control sequences out of 15000+600000
+ 6572 strings out of 473584
+ 112379 string characters out of 5732364
+ 1937908 words of memory out of 5000000
+ 29375 multiletter control sequences out of 15000+600000
  566811 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,16n,77p,531b,480s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 67i,16n,79p,531b,480s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
 live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dis
@@ -420,7 +434,7 @@ pe1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public
 /cm/cmti12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt1
 2.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/
 texlive/2024/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on tiro_con_arco.pdf (5 pages, 122725 bytes).
+Output written on tiro_con_arco.pdf (5 pages, 122792 bytes).
 PDF statistics:
  72 PDF objects out of 1000 (max. 8388607)
  43 compressed objects within 1 object stream
