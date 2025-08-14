@@ -1,0 +1,20 @@
+\frametitle{pdflscape}
+
+Para este entorno, se sugiere iniciar en una nueva página con el comando \verb|\newpage|
+        \begin{exampleblock}{Entorno landscape}
+        \verb|\begin{landscape}|
+
+        \hspace{1cm}\verb|\begin{figure}|
+
+                \hspace{1.75cm}\verb|\centering|
+
+                \hspace{1.75cm}\verb|\includegraphics[width=1,height=1]{ruta}|
+
+               \hspace{1.75cm} \verb|\caption{Pie de figura.}|
+
+               \hspace{1.75cm} \verb|\label{Ref. en texto.}|
+
+        \hspace{1cm}\verb|\end{figure}|
+
+        \verb|\end{landscape}|
+    \end{exampleblock}

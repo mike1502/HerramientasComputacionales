@@ -400,6 +400,410 @@
     \end{alertblock}
 \end{frame}
 
+
+\section{Estructura del documento}
+\begin{frame}[fragile]{Estructura del documento}
+
+\begin{figure}
+    \centering
+    \includegraphics[scale=0.32]{Estructura1.png} 
+    %\caption{}
+    \label{fig:enter-label}
+\end{figure}
+\end{frame}
+
+\begin{frame}[fragile]{Estructura del documento}
+
+\begin{figure}
+    \centering
+    \includegraphics[scale=0.32]{Estructura2.png} 
+    %\caption{}
+    \label{fig:enter-label}
+\end{figure}
+\end{frame}
+
+\begin{frame}[fragile]{Estructura del documento}
+
+\begin{figure}
+    \centering
+    \includegraphics[scale=0.32]{Estructura3.png} 
+    %\caption{}
+    \label{fig:enter-label}
+\end{figure}
+\end{frame}
+
+\begin{frame}[fragile]{Estructura del documento}
+
+\begin{figure}
+    \centering
+    \includegraphics[scale=0.32]{Estructura4.png} 
+    %\caption{}
+    \label{fig:enter-label}
+\end{figure}
+\end{frame}
+
+\begin{frame}[fragile]{Estructura del documento}
+
+\begin{figure}
+    \centering
+    \includegraphics[scale=0.32]{Estructura5.png} 
+    %\caption{}
+    \label{fig:enter-label}
+\end{figure}
+\end{frame}
+
+
+\subsection{Opciones del documento}
+%% Clase del documento
+\begin{frame}[fragile]{Clase del documento.}
+
+\begin{exampleblock}{Clase del documento.}
+
+\verb|\documentclass[opc1, opc2, opc3]{class}|. \pause
+\vspace{2mm}
+Las clases (class, tipo) de documentos son: \pause   
+
+\begin{itemize} 
+    
+    \item article: artículos de revistas científicas, informes técnicos, documentación de programas. \pause
+    \item report: informes largos que contienen varios capítulos, pequeños libros, etc. \pause
+    \item book: para crear libros. \pause
+    \item beamer: presentaciones (diapositivas).
+\end{itemize}
+
+\end{exampleblock}
+\end{frame}
+
+
+
+
+\begin{frame}[fragile]{Opciones del documento}
+
+\begin{exampleblock}{Opciones del documento.}
+
+\verb|\documentclass[opc1, opc2, opc3]{class}|. \pause
+\vspace{2mm}
+Las opciones o parámetros (opc1, opc2, opc3) del documento son: \pause   
+
+    \begin{itemize}
+        \item Tamaño de la fuente: \textbf{10pt, 11pt, 12pt}. \pause
+        \item Tipo de papel: \textbf{a4paper, a5paper, b5paper, \uline{letterpaper}, legalpaper}. \pause
+        \item Con o sin título/portada: \textbf{titlepage, notitlepage}. \pause
+        \item Documento con formato de una o dos columnas: \textbf{onecolumn, twocolumn}. \pause
+        \item Para imprimir documento en una o dos caras: \textbf{oneside, twoside}. \pause
+        \item Cada capítulo empieza en las páginas derechas o en la siguiente página disponible: \textbf{openright, openany}. 
+    \end{itemize}
+
+\end{exampleblock}
+\end{frame}
+
+
+\begin{frame}{Tipos de papel}
+    \centering
+    \includegraphics[scale=0.365]{Normativa-iso-sobre-papel-Serie-A-y-B.jpg} 
+
+    \scriptsize{Referencia: Couñago, J. (2014, 16 agosto). Normativa ISO sobre papel y sobres: Tamaños estándar. Toshibacenter | Digicopy - Distribuidor Oficial Toshiba. https://www.toshibacenter.es/normativa-iso-sobre-papel-y-sobres-tamanos-estandar/}
+    
+\end{frame}
+
+
+\subsection{Tipo de letra. Fuente de texto.}
+\begin{frame}[fragile]{Tipo de letra. Fuente de texto.}
+
+    \begin{itemize}
+        \item \verb|\textbf{}|. \textbf{Texto escrito en negrita}
+        \item \verb|\textit{}|. \textit{Texto escrito en itálica}
+        \item \verb|\emph{}| \emph{Enfatizar texto}
+        \item \verb|\textrm{}|. \textrm{Texto escrito en familia roman}
+        \item \verb|\textsf{}|. \textsf{Texto escrito en familia sans serif}
+        \item \verb|\texttt{}|. \texttt{Texto escrito en familia de mecanografiado (teletype).}
+    \end{itemize}
+    
+    
+\end{frame}
+
+
+\subsection{Tamaño de letra.}
+\begin{frame}[fragile]{Tamaño de letra.}
+
+    \begin{itemize}
+        \tiny{\item \tiny{Hola mundo! 
+        \verb|\tiny{Hola mundo!}|}. \pause
+        
+        \item \scriptsize{Hola mundo!   \verb|\scriptsize{Hola mundo!}|}. \pause
+        
+        \item \footnotesize{Hola mundo!  \verb|\footnotesize{Hola mundo!}|}. \pause
+
+        \item \small{Hola mundo!  \verb|\small{Hola mundo!}|}. \pause
+
+        \item \normalsize{Hola mundo!  \verb|\normalsize{Hola mundo!}|}. \pause
+
+        \item \large{Hola mundo!  \verb|\large{Hola mundo!}|}. \pause
+
+        \item \Large{Hola mundo!  \verb|\Large{Hola mundo!}|}. \pause
+
+        \item \LARGE{Hola mundo!  \verb|\LARGE{Hola mundo!}|}. \pause
+
+        \item \huge{Hola mundo!  \verb|\huge{Hola mundo!}|}. \pause
+
+        \item \Huge{Hola mundo!  \verb|\Huge{Hola mundo!}|}.
+       
+    \end{itemize}
+    
+    
+\end{frame}
+
+
+\begin{frame}{Tamaño de letra}
+
+    \begin{figure}
+        \centering
+        \includegraphics[scale=.31]{tamanoLetra.png} 
+        \caption{Tamaños de letra.}
+        \label{fig:enter-label}
+    \end{figure}
+
+\end{frame}
+
+
+\subsection{Paquetes}
+\begin{frame}[fragile]{Paquetes}
+    \begin{alertblock}{¿Qué es un paquete?}
+        
+    \begin{itemize} 
+        \item Un paquete (package) permite extender las capacidades de Latex tales como: \pause
+        \begin{itemize}
+            \item Incluir imágenes y tablas. \pause
+            \item Incluir texto coloreado. \pause
+            \item Incluir ecuaciones. \pause
+            \item Incluir soporte para diferentes idiomas. \pause
+        \end{itemize}
+
+        \item El comando para utilizar el paquete es \verb|\usepackage[opc1, opc2, opc3]{paquete}| \pause
+        
+        \item Pueden incluirse tantos paquetes como sea necesario. \pause
+        \item \textbf{Todos los paquetes se definen en el preámbulo.}
+        %\item Si un paquete ya va incluido por defecto (según el tipo de documento), sus opciones van en el documentclass.
+    \end{itemize}
+    \end{alertblock}
+\end{frame}
+
+
+
+\section{Entornos figure, table, lists (enumerate e itemize)}
+
+\begin{frame}[fragile]{Entornos Figure, Table, Columns}
+
+\begin{alertblock}{¿Qué es un entorno?}
+\justifying
+    Es una estructura que permite dar formato y control a ciertas partes del documento. Los entornos son áreas del documento donde se aplican reglas de formato específicas. Cada entorno tiene un comienzo y un final, y todo el contenido dentro de ese rango está sujeto a las propiedades del entorno.
+\end{alertblock}
+
+\vspace{0.5mm}
+
+
+\begin{columns}\pause
+
+    \begin{column}{.68\linewidth}        
+    \begin{block}{Entorno figure. Opción por defecto.}
+        \verb|\begin{figure}[Posición]|
+        
+                \verb|\centering|
+                   \verb|\includegraphics[width=0.2\linewidth]{imagen.png}|
+                \verb|\caption{Pie de figura.}|
+                
+                \verb|\label{Ref. en texto.}|
+                
+        \verb|\end{figure}|
+
+    \end{block}    
+    \end{column}
+
+
+\begin{comment}
+
+\begin{column}{.53\linewidth}
+        \begin{block}{Entorno subfigure}
+        \begin{itemize}
+            \item \small{Añadir el paquete \verb|\usepackage{subcaption}| y el entorno \verb|\begin{subfigure}|}.
+            \item \small{Para rotar la página e incluir una imagen grande, utilizar el paquete \verb|\usepackage{pdflscape}| y el entorno \verb|\begin{landscape}|}.
+        \end{itemize}
+        \end{block} 
+\end{column}
+\end{comment}
+\end{columns}
+\end{frame}
+
+
+\begin{frame}[fragile]{Entornos Figure, Table, Columns}
+    \begin{columns}
+
+    \begin{column}{.68\linewidth}        
+    \begin{block}{Entorno figure. Opción por defecto.}
+        \verb|\begin{figure}[Posición]|
+        
+                \verb|\centering|
+                   \verb|\includegraphics[width=0.2\linewidth]{imagen.png}|
+                \verb|\caption{Pie de figura.}|
+                
+                \verb|\label{Ref. en texto.}|
+                
+        \verb|\end{figure}|
+
+    \end{block}    
+    \end{column}
+
+
+    \end{columns}
+
+\vspace{0.5cm}
+Esta opción ajusta el ancho de la imagen para que sea la mitad del ancho de la línea actual (\verb|\linewidth |). Es el ancho del texto en el entorno donde te ubicas. No necesariamente es igual que el ancho total de la página.
+    
+\end{frame}
+
+
+\begin{frame}[fragile]{Entornos Figure, Table, Columns}
+    \begin{columns}\pause
+
+    \begin{column}{.52\linewidth}        
+    \begin{block}{Entorno figure (scale y angle)}
+        \verb|\begin{figure}[Posición]|
+        
+                \verb|\centering|
+                \verb|\includegraphics[scale=1,angle=1]{ruta}|
+
+                \verb|\caption{Pie de figura.}|
+                
+                \verb|\label{Ref. en texto.}|
+                
+        \verb|\end{figure}|
+
+    \end{block}    
+    \end{column}
+
+        \begin{column}{.52\linewidth}        
+    \begin{block}{Entorno figure (width y height)}
+        \verb|\begin{figure}[Posición]|
+        
+                \verb|\centering|
+
+                \verb|\includegraphics[width=1,height=1]{ruta}|
+                \verb|\caption{Pie de figura.}|
+                
+                \verb|\label{Ref. en texto.}|
+                
+        \verb|\end{figure}|
+
+    \end{block}    
+    \end{column}
+
+
+    
+    \end{columns}
+
+\begin{itemize}
+    \item \verb|scale| multiplica el tamaño original de la imagen.
+    \item \verb|angle| rota la imagen en grados, en sentido antihorario.
+
+\pause
+    \item \verb|width| controla el ancho de la imagen.
+
+    \item \verb|height| controla el alto de la imagen.
+
+\end{itemize}    
+\end{frame}
+
+
+
+
+\begin{frame}[fragile]{Posicionamiento de imágenes y figuras}
+\begin{table}[H]
+\begin{tabular}{|l|l|}
+\hline
+Posición   &                                                            \\ \hline
+h (here)   & La imagen/tabla debe ir  ' aquí '.                            \\ \hline
+t (top)    & La imagen/tabla debe ir en la parte superior de la página. \\ \hline
+b (bottom) & La imagen/tabla debe ir en la parte inferior de la página. \\ \hline
+p (page)   & Juntar imágenes/tablas en una sola página.                    \\ \hline
+!          & Ignorar reglas de posicionamiento.                         \\ \hline
+H          & Ignorar reglas de posicionamiento, superior a h!.          \\ \hline
+\end{tabular}
+\caption{Posicionamiento de elementos flotantes.}
+\end{table}
+
+Para habilitar los elementos el posicionamiento en figuras y tablas (elementos flotantes), añada en el preámbulo el paquete \verb|\usepackage{float}|.
+
+\end{frame}
+
+\begin{frame}[fragile]{Entorno subfigure}
+\centering
+
+    \begin{block}{Entorno subfigure y pdflscape}
+        \begin{itemize}
+            \item \small{Añadir el paquete \verb|\usepackage{subcaption}| y el entorno \verb|\begin{subfigure}{0.45\textwidth}|}. \verb|\textwidth| nos va a ayudar a definir el espacio que van a ocupar las imágenes en el renglón.
+            \begin{itemize} \pause
+                \item Debe ir dentro del entorno figure.
+            \end{itemize} \pause
+            \item \small{Para rotar la página e incluir una imagen grande, utilizar el paquete \verb|\usepackage{pdflscape}| y el entorno \verb|\begin{landscape}|}.
+            \begin{itemize}
+                \item El entorno figure debe ir dentro del entorno landscape.
+            \end{itemize}
+                
+        \end{itemize}
+    \end{block}
+
+
+\end{frame}
+
+\begin{frame}[fragile]{Entorno subfigure}
+
+     
+    \begin{exampleblock}{Entorno subfigure}
+    \verb|\begin{figure}|
+    
+        \hspace{1cm}\verb|\begin{subfigure}{0.45\textwidth}|
+        
+                \hspace{1.75cm}\verb|\centering|
+                
+                \hspace{1.75cm}\verb|\includegraphics[scale=1,angle=1]{ruta}|
+
+               \hspace{1.75cm} \verb|\caption{Pie de figura.}|
+                
+                \hspace{1.75cm}\verb|\label{Ref. en texto.}|
+                
+        \hspace{1cm}\verb|\end{subfigure}|
+
+        \verb|\end{figure}|
+
+    \end{exampleblock}    
+    
+
+\end{frame}
+
+\begin{frame}[fragile]{pdflscape}
+
+Para este entorno, se sugiere iniciar en una nueva página con el comando \verb|\newpage|
+        \begin{exampleblock}{Entorno landscape}
+        \verb|\begin{landscape}|
+        
+        \hspace{1cm}\verb|\begin{figure}|
+        
+                \hspace{1.75cm}\verb|\centering|
+
+                \hspace{1.75cm}\verb|\includegraphics[width=1,height=1]{ruta}|
+                
+               \hspace{1.75cm} \verb|\caption{Pie de figura.}|
+                
+               \hspace{1.75cm} \verb|\label{Ref. en texto.}|
+                
+        \hspace{1cm}\verb|\end{figure}|
+        
+        \verb|\end{landscape}|
+    \end{exampleblock}    
+\end{frame}
+
+
+
 \end{document}
 
 
