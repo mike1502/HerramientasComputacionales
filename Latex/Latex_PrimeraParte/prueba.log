@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.14)  15 AUG 2025 08:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.14)  15 AUG 2025 11:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1211,6 +1211,9 @@ LaTeX Warning: Label `fig:sub2' multiply defined.
 
 LaTeX Warning: Label `sub@fig:sub2' multiply defined.
 
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
 )
 \openout1 = `prueba.aux'.
 
@@ -1405,7 +1408,7 @@ thkerncmss.
 Package xypdf Info: Line width: 0.39998pt on input line 77.
  (prueba.nav)
 
-<logos_unam_ciencias.png, id=90, 756.426pt x 218.61674pt>
+<logos_unam_ciencias.png, id=108, 756.426pt x 218.61674pt>
 File: logos_unam_ciencias.png Graphic file (type png)
 <use logos_unam_ciencias.png>
 Package pdftex.def Info: logos_unam_ciencias.png  used on input line 90.
@@ -1436,7 +1439,7 @@ l.144 \end{frame}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Knuth_donald.jpg, id=184, 361.35pt x 505.89pt>
+<Knuth_donald.jpg, id=208, 361.35pt x 505.89pt>
 File: Knuth_donald.jpg Graphic file (type jpg)
 <use Knuth_donald.jpg>
 Package pdftex.def Info: Knuth_donald.jpg  used on input line 144.
@@ -1471,7 +1474,7 @@ l.144 \end{frame}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<LeslieLamport.jpg, id=185, 200.75pt x 301.125pt>
+<LeslieLamport.jpg, id=209, 200.75pt x 301.125pt>
 File: LeslieLamport.jpg Graphic file (type jpg)
 <use LeslieLamport.jpg>
 Package pdftex.def Info: LeslieLamport.jpg  used on input line 144.
@@ -1590,22 +1593,22 @@ Package pdftex.def Info: logos_unam_ciencias.png  used on input line 171.
 [6
 
 ]
-<article.png, id=366, 339.669pt x 290.88675pt>
+<article.png, id=397, 339.669pt x 290.88675pt>
 File: article.png Graphic file (type png)
 <use article.png>
 Package pdftex.def Info: article.png  used on input line 257.
 (pdftex.def)             Requested size: 33.96889pt x 29.09038pt.
-<informe.png, id=367, 330.63525pt x 330.63525pt>
+<informe.png, id=398, 330.63525pt x 330.63525pt>
 File: informe.png Graphic file (type png)
 <use informe.png>
 Package pdftex.def Info: informe.png  used on input line 257.
 (pdftex.def)             Requested size: 33.06546pt x 33.06546pt.
-<libro.png, id=368, 387.24675pt x 296.307pt>
+<libro.png, id=399, 387.24675pt x 296.307pt>
 File: libro.png Graphic file (type png)
 <use libro.png>
 Package pdftex.def Info: libro.png  used on input line 257.
 (pdftex.def)             Requested size: 38.72693pt x 29.63243pt.
-<tesis.png, id=369, 330.033pt x 327.02174pt>
+<tesis.png, id=400, 330.033pt x 327.02174pt>
 File: tesis.png Graphic file (type png)
 <use tesis.png>
 Package pdftex.def Info: tesis.png  used on input line 257.
@@ -1615,7 +1618,7 @@ Overfull \hbox (8.40674pt too wide) in paragraph at lines 257--257
  []\T1/cmss/m/n/10 Presentaciones 
  []
 
-<ppt.png, id=370, 287.27325pt x 328.8285pt>
+<ppt.png, id=401, 287.27325pt x 328.8285pt>
 File: ppt.png Graphic file (type png)
 <use ppt.png>
 Package pdftex.def Info: ppt.png  used on input line 257.
@@ -1942,7 +1945,7 @@ Package pdftex.def Info: logos_unam_ciencias.png  used on input line 257.
 [16
 
 ]
-<9.png, id=816, 1445.4pt x 813.0375pt>
+<9.png, id=858, 1445.4pt x 813.0375pt>
 File: 9.png Graphic file (type png)
 <use 9.png>
 Package pdftex.def Info: 9.png  used on input line 267.
@@ -1960,7 +1963,7 @@ Package pdftex.def Info: logos_unam_ciencias.png  used on input line 267.
 [17
 
  <./9.png (PNG copy)>]
-<FlujoLatex.png, id=859, 1445.4pt x 813.0375pt>
+<FlujoLatex.png, id=903, 1445.4pt x 813.0375pt>
 File: FlujoLatex.png Graphic file (type png)
 <use FlujoLatex.png>
 Package pdftex.def Info: FlujoLatex.png  used on input line 278.
@@ -2006,7 +2009,7 @@ Package pdftex.def Info: logos_unam_ciencias.png  used on input line 314.
 [22
 
 ]
-<lyx.png, id=1130, 1204.5pt x 1204.5pt>
+<lyx.png, id=1181, 1204.5pt x 1204.5pt>
 File: lyx.png Graphic file (type png)
 <use lyx.png>
 Package pdftex.def Info: lyx.png  used on input line 356.
@@ -2016,37 +2019,37 @@ Overfull \hbox (8.3355pt too wide) in paragraph at lines 356--356
 [][] 
  []
 
-<WinEdt.jpg, id=1131, 225.84375pt x 225.84375pt>
+<WinEdt.jpg, id=1182, 225.84375pt x 225.84375pt>
 File: WinEdt.jpg Graphic file (type jpg)
 <use WinEdt.jpg>
 Package pdftex.def Info: WinEdt.jpg  used on input line 356.
 (pdftex.def)             Requested size: 22.5857pt x 22.5857pt.
-<texlive1.png, id=1132, 200.75pt x 200.75pt>
+<texlive1.png, id=1183, 200.75pt x 200.75pt>
 File: texlive1.png Graphic file (type png)
 <use texlive1.png>
 Package pdftex.def Info: texlive1.png  used on input line 356.
 (pdftex.def)             Requested size: 20.07617pt x 20.07617pt.
-<texmaker.png, id=1133, 128.48pt x 128.48pt>
+<texmaker.png, id=1184, 128.48pt x 128.48pt>
 File: texmaker.png Graphic file (type png)
 <use texmaker.png>
 Package pdftex.def Info: texmaker.png  used on input line 356.
 (pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
-<texnicCenter.jpg, id=1134, 256.96pt x 256.96pt>
+<texnicCenter.jpg, id=1185, 256.96pt x 256.96pt>
 File: texnicCenter.jpg Graphic file (type jpg)
 <use texnicCenter.jpg>
 Package pdftex.def Info: texnicCenter.jpg  used on input line 356.
 (pdftex.def)             Requested size: 25.6975pt x 25.6975pt.
-<texstudio.jpg, id=1135, 128.48pt x 128.48pt>
+<texstudio.jpg, id=1186, 128.48pt x 128.48pt>
 File: texstudio.jpg Graphic file (type jpg)
 <use texstudio.jpg>
 Package pdftex.def Info: texstudio.jpg  used on input line 356.
 (pdftex.def)             Requested size: 12.84874pt x 12.84874pt.
-<miktex1.png, id=1136, 225.84375pt x 225.84375pt>
+<miktex1.png, id=1187, 225.84375pt x 225.84375pt>
 File: miktex1.png Graphic file (type png)
 <use miktex1.png>
 Package pdftex.def Info: miktex1.png  used on input line 356.
 (pdftex.def)             Requested size: 22.5857pt x 22.5857pt.
-<Visual_studio_code.jpg, id=1137, 475.7775pt x 473.77pt>
+<Visual_studio_code.jpg, id=1188, 475.7775pt x 473.77pt>
 File: Visual_studio_code.jpg Graphic file (type jpg)
 <use Visual_studio_code.jpg>
 Package pdftex.def Info: Visual_studio_code.jpg  used on input line 356.
@@ -2061,12 +2064,12 @@ Package pdftex.def Info: logos_unam_ciencias.png  used on input line 356.
 
  <./lyx.png> <./WinEdt.jpg> <./texlive1.png> <./texmaker.png> <./texnicCenter.j
 pg> <./texstudio.jpg> <./miktex1.png> <./Visual_studio_code.jpg>]
-<papeeria.png, id=1183, 285.065pt x 140.525pt>
+<papeeria.png, id=1236, 285.065pt x 140.525pt>
 File: papeeria.png Graphic file (type png)
 <use papeeria.png>
 Package pdftex.def Info: papeeria.png  used on input line 370.
 (pdftex.def)             Requested size: 99.77423pt x 49.18448pt.
-<sharelatex_overleaf.png, id=1184, 950.55125pt x 469.755pt>
+<sharelatex_overleaf.png, id=1237, 950.55125pt x 469.755pt>
 File: sharelatex_overleaf.png Graphic file (type png)
 <use sharelatex_overleaf.png>
 Package pdftex.def Info: sharelatex_overleaf.png  used on input line 370.
@@ -2216,7 +2219,7 @@ Package pdftex.def Info: logos_unam_ciencias.png  used on input line 401.
 \openout4 = `prueba.vrb'.
 
  (prueba.vrb
-<Estructura1.png, id=1302, 463.13025pt x 540.8205pt>
+<Estructura1.png, id=1360, 463.13025pt x 540.8205pt>
 File: Estructura1.png Graphic file (type png)
 <use Estructura1.png>
 Package pdftex.def Info: Estructura1.png  used on input line 5.
@@ -2239,7 +2242,7 @@ Package pdftex.def Info: logos_unam_ciencias.png  used on input line 413.
 \openout4 = `prueba.vrb'.
 
  (prueba.vrb
-<Estructura2.png, id=1360, 940.7145pt x 540.8205pt>
+<Estructura2.png, id=1421, 940.7145pt x 540.8205pt>
 File: Estructura2.png Graphic file (type png)
 <use Estructura2.png>
 Package pdftex.def Info: Estructura2.png  used on input line 5.
@@ -2262,7 +2265,7 @@ Package pdftex.def Info: logos_unam_ciencias.png  used on input line 423.
 \openout4 = `prueba.vrb'.
 
  (prueba.vrb
-<Estructura3.png, id=1412, 940.7145pt x 542.62724pt>
+<Estructura3.png, id=1476, 940.7145pt x 542.62724pt>
 File: Estructura3.png Graphic file (type png)
 <use Estructura3.png>
 Package pdftex.def Info: Estructura3.png  used on input line 5.
@@ -2285,7 +2288,7 @@ Package pdftex.def Info: logos_unam_ciencias.png  used on input line 433.
 \openout4 = `prueba.vrb'.
 
  (prueba.vrb
-<Estructura4.png, id=1464, 1086.459pt x 558.28575pt>
+<Estructura4.png, id=1531, 1086.459pt x 558.28575pt>
 File: Estructura4.png Graphic file (type png)
 <use Estructura4.png>
 Package pdftex.def Info: Estructura4.png  used on input line 5.
@@ -2308,7 +2311,7 @@ Package pdftex.def Info: logos_unam_ciencias.png  used on input line 443.
 \openout4 = `prueba.vrb'.
 
  (prueba.vrb
-<Estructura5.png, id=1515, 1086.459pt x 581.17125pt>
+<Estructura5.png, id=1585, 1086.459pt x 581.17125pt>
 File: Estructura5.png Graphic file (type png)
 <use Estructura5.png>
 Package pdftex.def Info: Estructura5.png  used on input line 5.
@@ -2446,7 +2449,7 @@ Package pdftex.def Info: logos_unam_ciencias.png  used on input line 498.
 [44
 
 ]
-<Normativa-iso-sobre-papel-Serie-A-y-B.jpg, id=2202, 749.80125pt x 450.9347pt>
+<Normativa-iso-sobre-papel-Serie-A-y-B.jpg, id=2292, 749.80125pt x 450.9347pt>
 File: Normativa-iso-sobre-papel-Serie-A-y-B.jpg Graphic file (type jpg)
 <use Normativa-iso-sobre-papel-Serie-A-y-B.jpg>
 Package pdftex.def Info: Normativa-iso-sobre-papel-Serie-A-y-B.jpg  used on inp
@@ -2719,7 +2722,7 @@ Package pdftex.def Info: logos_unam_ciencias.png  used on input line 554.
 [56
 
 ]
-<tamanoLetra.png, id=2666, 975.645pt x 529.98pt>
+<tamanoLetra.png, id=2773, 975.645pt x 529.98pt>
 File: tamanoLetra.png Graphic file (type png)
 <use tamanoLetra.png>
 Package pdftex.def Info: tamanoLetra.png  used on input line 566.
@@ -2938,7 +2941,7 @@ Package pdftex.def Info: logos_unam_ciencias.png  used on input line 803.
 [77
 
 ]
-<astronomia.jpg, id=3707, 1016.29688pt x 1001.99344pt>
+<astronomia.jpg, id=3853, 1016.29688pt x 1001.99344pt>
 File: astronomia.jpg Graphic file (type jpg)
 <use astronomia.jpg>
 Package pdftex.def Info: astronomia.jpg  used on input line 840.
@@ -3026,7 +3029,7 @@ Package pdftex.def Info: logos_unam_ciencias.png  used on input line 933.
 [82
 
 ]
-<pifont.png, id=4002, 925.056pt x 713.66624pt>
+<pifont.png, id=4159, 925.056pt x 713.66624pt>
 File: pifont.png Graphic file (type png)
 <use pifont.png>
 Package pdftex.def Info: pifont.png  used on input line 943.
@@ -3239,12 +3242,7 @@ Package pdftex.def Info: logos_unam_ciencias.png  used on input line 1065.
 \tf@snm=\write9
 \openout9 = `prueba.snm'.
 
-
-
-LaTeX Warning: Hook 'shipout/lastpage' executed on wrong page (82 not 103).
-               Rerun to correct this.
-
-(prueba.aux
+ (prueba.aux
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
 )
@@ -3256,20 +3254,14 @@ L3 programming layer <2025-07-20>
 
 LaTeX Warning: There were multiply-defined labels.
 
-
-Package rerunfilecheck Warning: File `prueba.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `prueba.out':
-(rerunfilecheck)             Before: 50F94170FCE9F89A50541BE3A595DBD0;2251
-(rerunfilecheck)             After:  394A11676CC1FB85AFAE032B32C37E51;2936.
+Package rerunfilecheck Info: File `prueba.out' has not changed.
+(rerunfilecheck)             Checksum: 394A11676CC1FB85AFAE032B32C37E51;2936.
  ) 
 Here is how much of TeX's memory you used:
- 32057 strings out of 468134
- 603577 string characters out of 5440792
- 1099068 words of memory out of 5000000
- 59613 multiletter control sequences out of 15000+600000
+ 32082 strings out of 468134
+ 605389 string characters out of 5440792
+ 1101052 words of memory out of 5000000
+ 59638 multiletter control sequences out of 15000+600000
  650351 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,23n,123p,3219b,1226s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -3305,9 +3297,9 @@ k/ljfour/jknappen/ec/dpi600\ecss0500.pk><C:/Program Files/MiKTeX/fonts/type1/pu
 blic/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfont
 s/cm/cmss10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/latxfont/l
 asy6.pfb>
-Output written on prueba.pdf (103 pages, 4402975 bytes).
+Output written on prueba.pdf (103 pages, 4440806 bytes).
 PDF statistics:
- 5845 PDF objects out of 6186 (max. 8388607)
+ 6116 PDF objects out of 6186 (max. 8388607)
  232 named destinations out of 1000 (max. 500000)
- 3712 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3744 words of extra memory for PDF output out of 10000 (max. 10000000)
 
