@@ -85,8 +85,39 @@
 \headcommand {\beamer@framepages {76}{76}}
 \headcommand {\slideentry {3}{0}{7}{77/77}{}{0}}
 \headcommand {\beamer@framepages {77}{77}}
-\headcommand {\beamer@partpages {1}{77}}
-\headcommand {\beamer@subsectionpages {66}{77}}
-\headcommand {\beamer@sectionpages {66}{77}}
-\headcommand {\beamer@documentpages {77}}
-\headcommand {\gdef \inserttotalframenumber {31}}
+\headcommand {\slideentry {3}{0}{8}{78/78}{}{0}}
+\headcommand {\beamer@framepages {78}{78}}
+\headcommand {\beamer@subsectionpages {66}{78}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{79}{Entorno table}}
+\headcommand {\slideentry {3}{1}{1}{79/80}{Entorno table}{0}}
+\headcommand {\beamer@framepages {79}{80}}
+\headcommand {\beamer@subsectionpages {79}{80}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{81}{Entorno listas}}
+\headcommand {\slideentry {3}{2}{1}{81/82}{Entorno listas}{0}}
+\headcommand {\beamer@framepages {81}{82}}
+\headcommand {\slideentry {3}{2}{2}{83/83}{Entorno listas}{0}}
+\headcommand {\beamer@framepages {83}{83}}
+\headcommand {\beamer@sectionpages {66}{83}}
+\headcommand {\beamer@subsectionpages {81}{83}}
+\headcommand {\sectionentry {4}{Comandos adicionales}{84}{Comandos adicionales}{0}}
+\headcommand {\slideentry {4}{0}{1}{84/91}{}{0}}
+\headcommand {\beamer@framepages {84}{91}}
+\headcommand {\slideentry {4}{0}{2}{92/98}{}{0}}
+\headcommand {\beamer@framepages {92}{98}}
+\headcommand {\beamer@subsectionpages {84}{98}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{99}{Comandos inestables}}
+\headcommand {\slideentry {4}{1}{1}{99/100}{Comandos inestables}{0}}
+\headcommand {\beamer@framepages {99}{100}}
+\headcommand {\beamer@subsectionpages {99}{100}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{101}{Comandos inestables}}
+\headcommand {\slideentry {4}{2}{1}{101/102}{Comandos inestables}{0}}
+\headcommand {\beamer@framepages {101}{102}}
+\headcommand {\beamer@subsectionpages {101}{102}}
+\headcommand {\beamer@subsectionentry {0}{4}{3}{103}{Caracteres especiales/reservados}}
+\headcommand {\slideentry {4}{3}{1}{103/103}{Caracteres especiales/reservados}{0}}
+\headcommand {\beamer@framepages {103}{103}}
+\headcommand {\beamer@partpages {1}{103}}
+\headcommand {\beamer@subsectionpages {103}{103}}
+\headcommand {\beamer@sectionpages {84}{103}}
+\headcommand {\beamer@documentpages {103}}
+\headcommand {\gdef \inserttotalframenumber {40}}
