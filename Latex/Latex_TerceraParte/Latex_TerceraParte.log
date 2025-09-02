@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.14)  15 AUG 2025 11:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.14)  1 SEP 2025 14:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1998,6 +1998,39 @@ Package pdftex.def Info: imagenes/logos_unam_ciencias.png  used on input line 5
 [33
 
 ]
+\openout4 = `Latex_TerceraParte.vrb'.
+
+ (Latex_TerceraParte.vrb)
+
+File: imagenes/logos_unam_ciencias.png Graphic file (type png)
+<use imagenes/logos_unam_ciencias.png>
+Package pdftex.def Info: imagenes/logos_unam_ciencias.png  used on input line 6
+13.
+(pdftex.def)             Requested size: 423.59567pt x 122.42453pt.
+[34
+
+]
+\openout4 = `Latex_TerceraParte.vrb'.
+
+ (Latex_TerceraParte.vrb
+<../../../../../Downloads/THC2026-1/codigopython2.png, id=1785, 552.56438pt x 3
+09.40594pt>
+File: ../../../../../Downloads/THC2026-1/codigopython2.png Graphic file (type p
+ng)
+<use ../../../../../Downloads/THC2026-1/codigopython2.png>
+Package pdftex.def Info: ../../../../../Downloads/THC2026-1/codigopython2.png  
+used on input line 5.
+(pdftex.def)             Requested size: 290.09221pt x 162.43582pt.
+)
+
+File: imagenes/logos_unam_ciencias.png Graphic file (type png)
+<use imagenes/logos_unam_ciencias.png>
+Package pdftex.def Info: imagenes/logos_unam_ciencias.png  used on input line 6
+22.
+(pdftex.def)             Requested size: 423.59567pt x 122.42453pt.
+[35
+
+ <../../../../../Downloads/THC2026-1/codigopython2.png>]
 \tf@nav=\write7
 \openout7 = `Latex_TerceraParte.nav'.
 
@@ -2007,7 +2040,8 @@ Package pdftex.def Info: imagenes/logos_unam_ciencias.png  used on input line 5
 \tf@snm=\write9
 \openout9 = `Latex_TerceraParte.snm'.
 
- (Latex_TerceraParte.aux
+
+(Latex_TerceraParte.aux
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
 )
@@ -2023,10 +2057,10 @@ Package rerunfilecheck Info: File `Latex_TerceraParte.out' has not changed.
 (rerunfilecheck)             Checksum: 7005A364B9CAC4847F45C25B68CC1FB5;1248.
  ) 
 Here is how much of TeX's memory you used:
- 36173 strings out of 468134
- 713310 string characters out of 5440792
+ 36197 strings out of 468134
+ 714194 string characters out of 5440792
  1155263 words of memory out of 5000000
- 63956 multiletter control sequences out of 15000+600000
+ 63972 multiletter control sequences out of 15000+600000
  639047 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,23n,123p,3231b,974s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2043,9 +2077,9 @@ blic/amsfonts/cm/cmssi9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfont
 s/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.p
 fb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Progr
 am Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on Latex_TerceraParte.pdf (33 pages, 943299 bytes).
+Output written on Latex_TerceraParte.pdf (35 pages, 997897 bytes).
 PDF statistics:
- 1827 PDF objects out of 2073 (max. 8388607)
- 79 named destinations out of 1000 (max. 500000)
- 1148 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1899 PDF objects out of 2073 (max. 8388607)
+ 83 named destinations out of 1000 (max. 500000)
+ 1153 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,13 +1,6 @@
 \frametitle{Código Python}
 
-Los parámetros de \verb|\lstset| son (continuación):
-
-    \begin{enumerate} \pause
-        \item \verb|showstringspaces=false|. \textcolor{red}{Evita colocar símbolos especiales entre espacios.} \pause
-        \item \verb|numbers=left|. \textcolor{red} {Número de línea de código. Se muestra a la izquierda.} \pause
-        \item \verb|breaklines=true|. \textcolor{red}{Mantiene el código dentro del marco (márgenes del documento).} \pause
-        \item \verb|frame=single|. \textcolor{red}{Dibuja un marco sencillo.} \pause
-        \item \verb|captionpos=b|. \textcolor{red}{Leyenda o 'pie de cuadro' en la parte de abajo.}
-    \end{enumerate}
-
-
+\begin{figure}
+	\centering
+	\includegraphics[scale=.525]{../../../../../Downloads/THC2026-1/codigopython2.png}
+\end{figure}
