@@ -1,0 +1,66 @@
+\documentclass{article}
+
+%\usepackage[utf8]{inputenc} % Paquete para aceptar caracteres en UTF-8
+\usepackage[spanish]{babel} % Paquete para idioma español
+\usepackage{amsmath, amsthm, amssymb}
+\usepackage{graphicx}
+\usepackage{blindtext}
+%\graphicspath{{./img/}}
+\usepackage{float}
+\usepackage[table,xcdraw]{xcolor}
+
+\title{Generar documento Latex con Visual Studio Code}
+\author{Miguel Ángel Carrillo Lucía}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Introducción}
+\noindent
+Aquí va el texto de tu introducción.
+Aquí va algo más y \blindtext y sigo con más texto
+
+
+\begin{equation}
+    x=20
+\end{equation}
+
+Ahora se va a insertar una imagen
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.2]{integral.png}
+\end{figure}
+
+Ya se probó con una imagen.
+
+\section{Desarrollo}
+Desarrollo de tus ideas principales. Ahora hay que intentar generar
+una tabla. Se muestra a continuación:
+
+% Please add the following required packages to your document preamble:
+% \usepackage[table,xcdraw]{xcolor}
+% Beamer presentation requires \usepackage{colortbl} instead of \usepackage[table,xcdraw]{xcolor}
+\begin{table}[H]
+
+    \centering
+    \begin{tabular}{|c|c|c|c|c|}
+    \hline
+    \rowcolor[HTML]{CBCEFB} 
+    \textbf{a} & \textbf{b} & \textbf{c} & \textbf{d} & \textbf{e} \\ \hline
+    \rowcolor[HTML]{FFC702} 
+    1          & 2          & 3          & 4          & 5          \\ \hline
+    \rowcolor[HTML]{FFC702} 
+    6          & 7          & 8          & 9          & 10         \\ \hline
+    \rowcolor[HTML]{FFC702} 
+    11         & 12         & 13         & 14         & 15         \\ \hline
+    \end{tabular}
+    \caption{Primera tabla generada en latex con visual studio code}
+    \end{table}
+
+\section{Conclusión}
+Conclusión de tu documento.
+
+\end{document}
